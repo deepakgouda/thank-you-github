@@ -1999,3 +1999,4 @@ Signed,
 - Abhishek J M ([@abhi-r3v0](https://github.com/abhi-r3v0)), CEO, NeOnSec, India
 - Marc Ignacio ([@padi](https://github.com/padi)), Software Developer, Philippines
 - Abdurrachman Mappuji ([@mappuji](https://github.com/mappuji)), Software Craftsman and Researcher, Jakarta, Indonesia
+- Deepak Kumar Gouda ([@deepakgouda](https://github.com/deepakgouda)), Student and Machine Learning Enthusiast, IIT Guwahati, India
